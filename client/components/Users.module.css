@@ -1,0 +1,22 @@
+.btnContainer {
+    display: block;
+    margin-top: 2.5rem;
+    text-align: center;
+}
+  
+.cardContainer {
+    gap: 1rem;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.btn {
+    width: auto;
+    height: 3rem;
+    padding: 1rem;
+    background-color: blueviolet;
+    color: white;
+    border:0px;
+    border-radius: 1rem;
+}
